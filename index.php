@@ -7,7 +7,7 @@
 
 phpinfo();
 
-echo "değiş";
+echo "değişme";
 
 exit;
 
