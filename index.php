@@ -12,5 +12,5 @@ echo "değişme";
 exit;
 
 ?>
-
+versiyon 2
 </html>
