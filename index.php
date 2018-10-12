@@ -11,7 +11,7 @@ echo "değiş";
 
 exit;
 gmp_testbit
-
+yazdım bişiler
 ?>
 
 </html>
