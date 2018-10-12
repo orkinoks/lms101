@@ -10,7 +10,8 @@ phpinfo();
 echo "değişme";
 
 exit;
-
+gmp_testbit
+yazdım bişiler
 ?>
 
 </html>
